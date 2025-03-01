@@ -2,6 +2,8 @@
 
 ## Objective
 This project automates the process of downloading multiple **Index2** documents from the Maharashtra government website [igrmaharashtra.gov.in](https://igrmaharashtra.gov.in). These documents are crucial for data extraction and analysis, and manually downloading them is time-consuming. This website simplifies the process by automating the document retrieval based on user inputs.
+
+
 ![image](https://github.com/user-attachments/assets/bd9d3cdb-896a-4bbf-aefa-e75150804c00)
 
 
